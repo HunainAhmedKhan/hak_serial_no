@@ -17,7 +17,7 @@
     ],
 
     'qweb': [],
-    'images': ['static/description/iWesabe-Apps-Serial-Number-SO.png'],
+    'images': ['static/description/Banner.png'],
 
     'installable': True,
     'application': True,
