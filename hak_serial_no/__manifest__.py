@@ -2,11 +2,11 @@
 {
     'name': 'Serial number in Sale Order,Purchase Order,Invoice',
     'version': '13.0.0.0',
-    'author': 'HAKsolutions',
+    'author': 'HAK Solutions',
     'summary': 'Serial number in Sale Order Linee',
     'description': """This module helps to show serial number in sale order lines.""",
     'category': 'Base',
-    'website': 'https://www.iwesabe.com/',
+    'website': 'https://www.haksolutions.com/',
     'license': 'AGPL-3',
 
     'depends': ['sale_management','account','purchase'],
