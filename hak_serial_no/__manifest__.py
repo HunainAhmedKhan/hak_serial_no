@@ -2,7 +2,7 @@
 {
     'name': 'Serial number in Sale Order,Purchase Order,Invoice',
     'version': '13.0.0.0',
-     'author': "HAK Tehnologies",
+    'author': "HAK Technologies",
     'summary': 'Serial number in Sale Order Linee',
     'description': """This module helps to show serial number in sale order lines.""",
     'category': 'Base',
